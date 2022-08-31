@@ -1,0 +1,4 @@
+image:
+  name: m4ucorp/platform-prevention-rule-engine:pipeline
+  username: $DOCKERHUB_USERNAME
+  password: $DOCKERHUB_PASSWORD
